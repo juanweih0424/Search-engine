@@ -1,0 +1,82 @@
+Question 1: How many unique pages did we find?
+We found total: 3143 pages
+
+Question 2: What is the longest page in terms of number of words?
+('https://evoke.ics.uci.edu/qs-personal-data-landscapes-poster/\n', 207858)
+
+Question 3: What are the 50 common words for the pages we crawled under these domains?
+('email', 10324)
+('computer', 8866)
+('people', 8196)
+('time', 7407)
+('data', 7279)
+('uci', 6431)
+('website', 6070)
+('software', 6036)
+('students', 5470)
+('bren', 5313)
+('technology', 5078)
+('required', 4975)
+('address', 4874)
+('school', 4798)
+('fields', 4674)
+('published', 4590)
+('good', 4572)
+('comment', 4415)
+('science', 4290)
+('marked', 4259)
+('work', 4217)
+('systems', 4175)
+('ics', 4083)
+('donald', 4005)
+('irvine', 3967)
+('events', 3853)
+('search', 3847)
+('design', 3799)
+('interesting', 3585)
+('university', 3571)
+('social', 3408)
+('system', 3323)
+('based', 3254)
+('video', 3249)
+('great', 3230)
+('web', 3169)
+('student', 3145)
+('engineering', 3103)
+('sciences', 2964)
+('article', 2925)
+('post', 2879)
+('india', 2855)
+('computing', 2823)
+('california', 2808)
+('informatics', 2789)
+('professor', 2711)
+('media', 2699)
+('game', 2644)
+('event', 2595)
+('online', 2534)
+
+Question 4: How many subdomains did you find in the ics.uci.edu domain?
+Subdomain: -----http://cradl.ics.uci.edu, 2 times found
+Subdomain: -----http://i-sensorium.ics.uci.edu, 2 times found
+Subdomain: -----http://isg.ics.uci.edu, 1 times found
+Subdomain: -----http://malek.ics.uci.edu, 1 times found
+Subdomain: -----http://plrg.ics.uci.edu, 1 times found
+Subdomain: -----http://sdcl.ics.uci.edu, 1 times found
+Subdomain: -----http://vision.ics.uci.edu, 1 times found
+Subdomain: -----http://www.ics.uci.edu, 74 times found
+Subdomain: -----https://acoi.ics.uci.edu, 21 times found
+Subdomain: -----https://cml.ics.uci.edu, 1 times found
+Subdomain: -----https://cyberclub.ics.uci.edu, 3 times found
+Subdomain: -----https://evoke.ics.uci.edu, 22 times found
+Subdomain: -----https://luci.ics.uci.edu, 2 times found
+Subdomain: -----https://malek.ics.uci.edu, 1 times found
+Subdomain: -----https://mcs.ics.uci.edu, 1 times found
+Subdomain: -----https://mds.ics.uci.edu, 1 times found
+Subdomain: -----https://ngs.ics.uci.edu, 173 times found
+Subdomain: -----https://sdcl.ics.uci.edu, 8 times found
+Subdomain: -----https://seal.ics.uci.edu, 13 times found
+Subdomain: -----https://swiki.ics.uci.edu, 3 times found
+Subdomain: -----https://transformativeplay.ics.uci.edu, 4 times found
+Subdomain: -----https://vision.ics.uci.edu, 1 times found
+Subdomain: -----https://www.ics.uci.edu, 34 times found
